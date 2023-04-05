@@ -55,4 +55,4 @@ if __name__ == "__main__":
         color_continuous_scale=px.colors.sequential.Plasma,
     )
     # fig.show()
-    fig.write_image("images/worlmap.png")
+    fig.write_image("images/worldmap.png")
