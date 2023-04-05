@@ -6,7 +6,9 @@ Random tools to make work easier
 <img align="left" height="100" src="./images/adsabs.png">
 <img align="left" height="100" src="./images/adsabs2.png">
 
-2. python worldmap_with_coauthors_countries.py
+
+
+2. `python worldmap_with_coauthors_countries.py`
 
 Produces
 <img align="right" height="100" src="./images/worldmap.png">
